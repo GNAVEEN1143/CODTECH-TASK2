@@ -61,3 +61,6 @@ o	The program displays the average grade, letter grade, and GPA.
 o	It could also provide feedback like "Excellent work!" for high grades, or "Needs Improvement" for lower grades.
 5.	Repeat Process or Exit:
 o	The user can choose to input grades for a different student or subject or exit the program.
+
+Output:
+![Screenshot 2024-12-30 114952](https://github.com/user-attachments/assets/0521066d-62ea-4331-bfe8-5d21dfea814f)
